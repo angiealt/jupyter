@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/angiealt/jupyter/HEAD)
+
 # Jupyter and JupyterLab
 
 - [Credit and license](https://coderefinery.github.io/jupyter/license/)
